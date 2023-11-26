@@ -11,6 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nAgnoH&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nAgnoH&layout=compact&show_icons=true&hide_border=true" />
   </td>
+  </td> width="52%"><img alt="gif" align="right" src=".github/coding.gif"/></td>
  
 </tr>
 <table>
